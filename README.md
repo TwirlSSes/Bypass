@@ -1,5 +1,6 @@
 # Bypass
-Minecraft SSing bypass works on most servers (Not selling, use it at your OWN risk)
+
+Free working bypass, but outdated.
 
 IMPORTANT: Outdated bypass, as im not giving out insane bypasses for free obviously. (If you'd like to purchase a bypass and ill set it up personally msg me on discord: twirl.msc.dll)
 
