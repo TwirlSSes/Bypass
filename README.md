@@ -24,7 +24,7 @@ Open 2 cmds at pc launch, put in the first one:
 
 If you get forzen with the 2nd CMD, put in:
 
-type "C:\Program Files (x86)\Steam\public\Trusted file.txt" > "C:\Users\falox\Videos\Clips:‎Z‎one.I‎dentifier" 
+type "C:\Program Files (x86)\Steam\public\Trusted file.txt" > "C:\Users\PC NAME\Videos\Clips:‎Z‎one.I‎dentifier" 
 
 Congrats, you've bypassed for the 1st time without purchasing a bypassing from anyone.
 
