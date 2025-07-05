@@ -2,7 +2,7 @@
 
 Free working bypass, but outdated.
 
-IMPORTANT: Outdated bypass, as im not giving out insane bypasses for free obviously. (If you'd like to purchase a bypass and ill set it up personally msg me on discord: twirl.msc.dll)
+IMPORTANT: Outdated bypass, as im not giving out insane bypasses for free obviously. (If you'd like to purchase a bypass and ill set it up personally msg me on discord: twirl.dll)
 
 Steps:
 
@@ -28,4 +28,4 @@ If you get forzen with the 2nd CMD, put in:
 
 Congrats, you've bypassed for the 1st time without purchasing a bypassing from anyone.
 
-(If you want an in-depth bypass in which I setup everything for you DM me on discord: twirl.msc.dll)
+(If you want an in-depth bypass in which I setup everything for you DM me on discord: twirl.dll)
